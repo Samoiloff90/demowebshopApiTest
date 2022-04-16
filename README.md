@@ -1,1 +1,7 @@
-# demowebshopApiTest
+# Тестирование API сайта
+## <a target="_blank" href="https://www.labirint.ru/">http://demowebshop.tricentis.com/</a>
+
+## Реализованные проверки
+- Поиск товара через строку поиска
+- Подписка на информационную рассылку
+- Добавление двух товаров в корзину 
